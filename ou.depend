@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1306574364 source:c:\documents and settings\alexandre\mes documents\projets\ou\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1310817808 source:c:\documents and settings\alexandre\mes documents\projets\trouver nombre\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
